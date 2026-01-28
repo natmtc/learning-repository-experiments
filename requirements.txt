@@ -1,0 +1,15 @@
+# Novecento EMG Application Dependencies
+
+# GUI Framework
+PySide6>=6.5.0
+
+# Data handling
+numpy>=1.21.0
+h5py>=3.7.0
+
+# Serial communication (for hardware)
+pyserial>=3.5
+
+# Optional: for enhanced plotting
+# matplotlib>=3.5.0
+# pyqtgraph>=0.13.0

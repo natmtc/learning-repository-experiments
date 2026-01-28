@@ -1,0 +1,15 @@
+[project]
+name = "novecento-app-master"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "h5py>=3.15.1",
+    "matplotlib>=3.10.8",
+    "numpy>=2.3.5",
+    "pyqtgraph>=0.14.0",
+    "pyserial>=3.5",
+    "pyside6>=6.10.1",
+    "scipy>=1.17.0",
+]
