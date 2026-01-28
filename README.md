@@ -2,7 +2,7 @@
 
 🚧 **UNDER CONSTRUCTION** 🚧
 
-A desktop application for EMG recording and force-feedback tasks using the OT Bioelettronica Novecento+ amplifier.
+GUI for EMG recording and force-feedback tasks using the OT Bioelettronica Novecento+ amplifier.
 
 ## Features
 
